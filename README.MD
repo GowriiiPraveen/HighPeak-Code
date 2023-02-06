@@ -1,4 +1,4 @@
-Directly run the code on any python environment and enter the input as below format.
+Directly run the main.py on any python environment and enter the input as below format.
 
 Input : number of jobs to be entered. example - 3
 

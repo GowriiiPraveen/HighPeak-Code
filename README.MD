@@ -70,3 +70,4 @@ Sample Output: 3
 The number of tasks and earnings available for others
 Task: 1
 Earnings: 100 
+
